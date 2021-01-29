@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Zerodha Clone
+- 🔭 I’m currently working on Amazon Clone
 - 🌱 I’m currently learning React-Redux
 
 <!--
