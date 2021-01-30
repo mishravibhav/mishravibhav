@@ -18,7 +18,9 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 
  <!-- 🔭 I’m planning for a Project **🧐 Vision: ML and Cloud-based tech. for Blinds**. -->
 
-🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile
+🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+
+<!-- . Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile -->
 
 <!-- 📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> -->
 
@@ -36,9 +38,10 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Next.Js-fff?style=flat&logo=next.js&logoColor=000">
+
+<!-- <img src="https://img.shields.io/badge/-Next.Js-fff?style=flat&logo=next.js&logoColor=000"> -->
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
@@ -88,7 +91,7 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 <a href="https://medium.com/@Souravdey777/how-to-create-a-simple-portfolio-in-github-5465ccf189dc?source=rss-647ce45da107------2">
   <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=0" title="Intro Card" alt="Intro Card">
 </a>
-  
+
 <a href="https://medium.com/@Souravdey777/how-i-created-my-covid-19-info-bot-4929ef296680?source=rss-647ce45da107------2">
   <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=1" title="Intro Card" alt="Intro Card">
 </a>
@@ -116,4 +119,5 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 
 <!-- [medium]: https://medium.com/@Souravdey777 -->
 <!-- [producthunt]: https://www.producthunt.com/@souravdey777 -->
-[speakerdeck]: https://speakerdeck.com/Souravdey777 
+
+[speakerdeck]: https://speakerdeck.com/Souravdey777
