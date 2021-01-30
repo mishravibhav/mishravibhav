@@ -18,9 +18,9 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 
  <!-- 🔭 I’m planning for a Project **🧐 Vision: ML and Cloud-based tech. for Blinds**. -->
 
-🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile 👉🏻 [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012)
+🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile
 
-📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+<!-- 📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> -->
 
  <!-- 👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777) -->
 
@@ -56,7 +56,7 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 
 ---
 
-<a href="https://profile.codersrank.io/user/souravdey777"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=souravdey777&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
+<!-- <a href="https://profile.codersrank.io/user/souravdey777"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=souravdey777&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a> -->
 
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mishravibhav)](https://github.com/mishravibhav)
 
