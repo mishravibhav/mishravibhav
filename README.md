@@ -67,6 +67,9 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 [![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
+[![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
+[![Product Hunt](http://img.shields.io/badge/-Product%20Hunt-DA552F?style=flat&logo=Product%20Hunt&logoColor=white)][producthunt]
+[![Speaker Deck](http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white)][speakerdeck]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
 <!-- <
@@ -89,6 +92,7 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 **Note-** [Add your blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs)
 
 ---
+-->
 
 Let's connect 👨‍💻 and forge the future together. 😁✌
 
@@ -97,16 +101,8 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 [website]: https://mishravibhav.github.io/
 [mail]: mailto:mishravibhav1910@gmail.com
 [twitter]: https://twitter.com/VibhavM16952324
-
-<!-- [codersrank]: https://profile.codersrank.io/user/ -->
-
+[codersrank]: https://profile.codersrank.io/user/mishravibhav/asOthersSee/info
 [youtube]: https://youtube.com/
-
-<!-- [instagram]: https://www.instagram.com/souravdey777/ -->
-
+[instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/vibhav-mishra-91625a170/
-
-<!-- [medium]: https://medium.com/@Souravdey777 -->
-<!-- [producthunt]: https://www.producthunt.com/@souravdey777 -->
-
-[speakerdeck]: https://speakerdeck.com/Souravdey777
+[medium]: https://medium.com/@mishravibhav
