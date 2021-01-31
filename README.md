@@ -14,21 +14,13 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 
 🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
- <!-- 👨‍💻 I'm currently working on two side projects 👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio) -->
+👨‍💻 I'm currently working on Amazon-clone using React.
 
  <!-- 🔭 I’m planning for a Project **🧐 Vision: ML and Cloud-based tech. for Blinds**. -->
 
-🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+🚀 I’m currently learning <img src="https://img.shields.io/badge/Amazon%20Web%20Services-4285F4?style=flat&logo=aws&logoColor=white">
 
-. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile
-
-<!-- 📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> -->
-
- 👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/mishravibhav)
-
- <!-- 🤔 I’m looking for help with [**Github Blog Cards**](https://github.com/Souravdey777/Github-Cards-External-Blogs) -->
-
-<!-- ![Profile views](https://gpvc.arturio.dev/mishravibhav)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" /> -->
+![Profile views](https://gpvc.arturio.dev/mishravibhav) <img src="https://img.shields.io/github/followers/mishravibhav?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
@@ -38,8 +30,6 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
@@ -48,7 +38,10 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+
+<!-- <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
 
 ### Other Languages I know
 
