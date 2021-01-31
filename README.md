@@ -68,8 +68,6 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 [![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
-[![Product Hunt](http://img.shields.io/badge/-Product%20Hunt-DA552F?style=flat&logo=Product%20Hunt&logoColor=white)][producthunt]
-[![Speaker Deck](http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white)][speakerdeck]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
 <!-- <
@@ -103,6 +101,6 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 [twitter]: https://twitter.com/VibhavM16952324
 [codersrank]: https://profile.codersrank.io/user/mishravibhav/asOthersSee/info
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
+[instagram]: https://www.instagram.com/mishra_vibhav_/
 [linkedin]: https://www.linkedin.com/in/vibhav-mishra-91625a170/
 [medium]: https://medium.com/@mishravibhav
