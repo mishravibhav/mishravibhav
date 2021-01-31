@@ -39,14 +39,9 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
-<!-- <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
-
 ### Other Languages I know
 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-javascript-sky?style=flat&logo=javascript&logoColor=white">
 
 ---
 
@@ -55,8 +50,6 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mishravibhav)](https://github.com/mishravibhav)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mishravibhav&show_icons=true&hide_border=true)](https://github.com/mishravibhav)
-
-<!-- Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/souravdey777) -->
 
 ---
 
@@ -70,10 +63,12 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 [![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
+---
+
 <!-- <
 
 
----
+
 
 ### You can check out my blogs 📢
 
