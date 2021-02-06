@@ -70,7 +70,7 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 
 
 
-### You can check out my blogs 📢
+### You can check out my  blogs 📢
 
 <p >
 <a href="https://medium.com/@Souravdey777/how-to-create-a-simple-portfolio-in-github-5465ccf189dc?source=rss-647ce45da107------2">
