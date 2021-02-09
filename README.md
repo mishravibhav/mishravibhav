@@ -2,7 +2,7 @@
 Hope you ❤️ the repo. Don't forget to follow.
 -->
 
-### Hey I am VIBHAV 👋
+### Hey My name is VIBHAV 👋
 
 ---
 
@@ -66,9 +66,6 @@ I am 22 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud 
 ---
 
 <!-- <
-
-
-
 
 ### You can check out my  blogs 📢
 
