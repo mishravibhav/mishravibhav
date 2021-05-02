@@ -2,7 +2,7 @@
 Hope you ❤️ the repo. Don't forget to follow.
 -->
 
-### Hey I is VIBHAV 👋
+### Hey I am VIBHAV 👋
 
 ---
 
